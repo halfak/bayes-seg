@@ -1,7 +1,7 @@
 bayes-seg
 =========
 
-Java code from the 2008 EMNLP paper "Bayesian Unsupervised Topic Segmentation" by Eisenstein and Barzilay
+Java code from [the 2008 EMNLP paper "Bayesian Unsupervised Topic Segmentation" by Eisenstein and Barzilay](https://dl.acm.org/doi/10.5555/1613715.1613760)
 
 Copyright (C) 2008 Massachusetts Institute of Technology
  
